@@ -1,4 +1,4 @@
-# Ariana Zhu
+# Ariana Zhu's first CS193 Lab
 ## Ariana Zhu
 ### Ariana Zhu
 
