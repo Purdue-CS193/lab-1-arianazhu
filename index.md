@@ -8,17 +8,9 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Googe](https://google.com)
+[Google](https://google.com)
+![image](https://secure.i.telegraph.co.uk/multimedia/archive/03597/POTD_chick_3597497k.jpg)
 
-```
-three no hi 
-```
-
-```hi
-three
-```
-
-### Markdown
 
 ```markdown
 [Link](url) and ![Image](src)
